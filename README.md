@@ -6,8 +6,6 @@
 
 ### Table of Contents
 
-You're sections headers will be used to reference location of destination.
-
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [License](#license)
@@ -31,7 +29,7 @@ WeatherCast is a Weather App that retrieves weather forecasting information from
 
 ## How To Use
 
-Type a location that you would like to receive weather forecasting information for into the provided search bar, press the 'Enter' key on your keyboard or alternatively click on the
+Type a location into the search bar, then go ahead and press the 'Enter' key on your keyboard or alternatively click on the search icon provided, the weather for that location will then be displayed on screen.
 
 [Back To The Top](#weathercast-app)
 
