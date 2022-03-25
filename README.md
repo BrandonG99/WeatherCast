@@ -1,5 +1,7 @@
 # WeatherCast App
 
+![WeatherCast Project Image](https://www.brandonguard.com/images/portfolio/PortfolioImages/WeatherCast/WeatherCast5-min.png)
+
 > WeatherCast provides weather forecasting information related to the location the user has searched for.
 
 ---
